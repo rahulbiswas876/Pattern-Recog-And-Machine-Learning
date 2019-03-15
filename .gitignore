@@ -1,0 +1,9 @@
+others
+#!assignment1
+assignment1/Archive1
+#!assignment2
+assignment2/Archive2
+
+#/ProgAssmt1A_student.ipynb
+#!assignment2/*.ipynb
+
